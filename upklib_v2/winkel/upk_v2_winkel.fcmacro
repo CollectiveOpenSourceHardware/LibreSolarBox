@@ -1,0 +1,70 @@
+# Macro Begin: /mydisk/oshome/osede/unipro/freecad//upklib/base_struk/winkel/upk_v2_winkel.FCMacro +++++++++++++++++++++++++++++++++++++++++++++++++
+import FreeCAD
+from FreeCAD import Base
+import Part,PartGui 
+import ImportGui
+
+
+doc=FreeCAD.newDocument()
+#oder
+# doc=App.activeDocument() 
+
+# sizes = [20, 40, 60, 80, 120, 160, 240, 320, 640]
+sizes = [20, 40, 60, 80, 120, 160, 240, 320, 400, 480, 560, 640]
+# sizes = [60]
+
+
+for i in sizes:
+
+	#*********************************************************
+	# - Erzeugung eines Winkel-Objektes mit allen Bohrungen
+	# - Speicherung als .stl, .stp,. .igs, und .wrl-Datei
+	# - Erstellung einer 2D-Masz-Zeichnung
+	#*********************************************************
+	partlen = i
+	partsize = partlen / 20
+
+	# Rohwinkel
+	myrawblock = Part.makeBox(20,partsize*20,20)
+	mycutblock = Part.makeBox(17,partsize*20,17,Base.Vector(3,0,3))
+	myangle = myrawblock.cut(mycutblock)
+	angleobj = doc.addObject("Part::Feature","upk_angle"+str(i))
+	angleobj.Shape = myangle
+
+	# Bohrloecher
+	for n in range(partsize):
+		# Erzeuge Bohrloch1
+		# mycuthole = Part.makeCylinder(2.5,20, Base.Vector(10,((n+1)*20)-10,-8))
+              mycuthole = Part.makeCylinder(3.0,20, Base.Vector(10,((n+1)*20)-10,-8))
+              myangle = myangle.cut(mycuthole)
+              angleobj.Shape = myangle
+		# Erzeuge Bohrloch2
+		# mycuthole = Part.makeCylinder(2.5,20, Base.Vector(0,0,0))
+              mycuthole = Part.makeCylinder(3.0,20, Base.Vector(0,0,0))
+              mycuthole.rotate(Base.Vector(0,0,0),Base.Vector(0,1,0),90)
+              mycuthole.translate(Base.Vector(-10,((n+1)*20)-10,10))
+              myangle = myangle.cut(mycuthole)
+              angleobj.Shape = myangle
+
+	# Bewege neuerzeugtes Winkelobjekt etwas zur Seite
+	pl = FreeCAD.Placement()
+	pl.move(FreeCAD.Vector(partsize*30,0,0))
+	angleobj.Placement = pl
+	#App.ActiveDocument.upk_angle.Placement = App.Placement(App.Vector(i*30,0,0),App.Rotation(0,0,0,1))
+	#Part.show(myangle)
+
+#	# Export
+#   # angleobj.exportStep("test.stp")
+#	__objs__=[]
+#	__objs__.append(FreeCAD.getDocument("Unnamed").getObject("upk_angle"+str(i)))
+#	ImportGui.export(__objs__,"/mydisk/oshome/osede/unipro/freecad/upk_angle"+str(i)+".stp")
+#	del __objs__
+ 
+
+# Part.show(mycuthole)
+Gui.activeDocument().activeView().viewAxometric()
+Gui.SendMsgToActiveView("ViewFit")
+doc.recompute()
+
+
+# Macro End: /mydisk/oshome/osede/unipro/freecad/upklib/base_struk/winkel/upk_v2_winkel.FCMacro +++++++++++++++++++++++++++++++++++++++++++++++++
