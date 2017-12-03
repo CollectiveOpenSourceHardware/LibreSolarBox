@@ -5,7 +5,7 @@ The power specifications are chosen to supply a mini house, a boat, a caravan, o
 
 The aim is that everybody is possible to rebuild the solar box at home or at his/her favourite fablab.
 
-## current system layout
+## current system layout, V0.1
 The current Libre Solar Box system contains following specs and modules:
 ### specs:
 - V_input_max = 55V
