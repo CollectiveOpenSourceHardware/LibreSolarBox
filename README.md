@@ -24,5 +24,5 @@ The current Libre Solar Box system contains following specs and modules:
 
 ### visualization:
 - Open Energy Monitor via CAN to ESP (Server ext.)/Rasbperry (Server int.)
-- browser based visu -> access via LAN/WLAN
+- browser based visualization -> access via LAN/WLAN
 
