@@ -4,7 +4,7 @@ We want to provide a compact, mobile and modular electric power generator. An al
 The power specifications are chosen to supply a mini house, a boat, a caravan, or any other off-grid devices like a music station on an open-air.
 
 The aim is that everybody is possible to rebuild the solar box at home or at his/her favourite fablab.
-
+----------------------
 ## current system layout, V0.1
 The current Libre Solar Box system contains following specs and modules:
 ### specs:
