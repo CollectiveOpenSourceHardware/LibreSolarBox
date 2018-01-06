@@ -15,9 +15,9 @@ The current Libre Solar Box system contains following specs and modules:
 - P_input_max = 300Wp
 - C_batteries = 920 Wh
 - V_dc_out = 12V
-- P_dc_out = 300W
+- P_dc_out = 300W, theoretically 510W -> not tested
 - (V_ac_out = 230V, 50Hz) optional
-- (P_ac_out = 250W) optional
+- (P_ac_out = 250W) optional -> depend on inverter
 
 ### modules:
 - **electric**: LibreSolar (MPPT+BMS), Inverter (Victron), ESP/Rasbperry, Fuse
