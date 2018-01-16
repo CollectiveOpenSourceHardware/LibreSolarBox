@@ -20,7 +20,7 @@ The current Libre Solar Box system contains following specs and modules:
 - (P_ac_out = 250W) optional -> depend on inverter
 
 ### modules:
-- **electric**: [Libre Solar] (https://libre.solar/) (MPPT+BMS), Inverter (Victron), ESP/Rasbperry, Fuse
+- **electric**: [Libre Solar](https://libre.solar/) (MPPT+BMS), Inverter (Victron), ESP/Rasbperry, Fuse
 - **Batteries**: LiFePO4 (Calb), 72Ah, 3,2V, 230,5Wh - 4x -> 12,8V, 920Wh
 - **Housing/Frame**: UniProKit, with corner elements for blending; wood plates for mounting electric parts and batteries
 - **Interface**: Solarinput (MC4), DC-output (car plug), AC-output (schuko, integrated in inverter), main switch
