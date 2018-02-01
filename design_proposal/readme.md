@@ -1,4 +1,4 @@
 in this folder we want to propose some designs how you can enclosure the box components to a moveable scalable box
 
 ## First designs
-![pic1](LibreSolarBox/design_proposal/25434385_1713754665349127_1018639621_o.jpg)
+![pic1](/design_proposal/25434385_1713754665349127_1018639621_o.jpg)
