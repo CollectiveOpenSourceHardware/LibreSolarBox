@@ -57,7 +57,7 @@ It would be nice and certainly useful for everyone, if such a kind of systematic
 ### Links 
 * Project-Homepage: [UniProKit](https://wiki.opensourceecology.de/Universal_Prototyping_Kit)
 * The CAD-Library: [UPKlib V.2](https://wiki.opensourceecology.de/Upklib)
-* Structural Parts: [Basic Set](https://wiki.opensourceecology.de/Upklib)
+* Structural Parts: [Basic Set](https://wiki.opensourceecology.de/Basis-Set_Strukturelemente)
 * Housing: [Frame Set](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Frameset)
 * Linear Motion : [LinearDrive Set](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Lineartrieb)
 
