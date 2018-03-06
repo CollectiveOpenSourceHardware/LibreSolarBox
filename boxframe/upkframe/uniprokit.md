@@ -4,6 +4,12 @@ The UniProKit (Universal Prototyping Kit) project was originated by the wish to 
 
 It should resemble the well known '''metal construction sets''' like Meccano/Erector, with basic elements like bars, angles and plates with rows of drilled holes, wheels, flanges, transmission-rods etc., up to more specific elements like stepper motors and linear drives, less toy-like, but more stable and slightly bigger dimensioned.
 
+![Overview] (https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png)
+
+
+![Metal Construction Kit] (https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg)
+
+
 ### Applications
 
 Such a thing would be desirable for all kind of projects, for fast and easy testing of approaches and ideas - just rapid prototyping, or for building smaller machines like a 3D-printer or pcb-router. It could also be used for structural supports and mountings in experiments, or jigs for producing other parts. One can also use it for building assembly groups and modular components in other projects, e.g. a lineardrive-module within a tracking-system of a CSP-project (CSP=concentrating solar power).
@@ -18,7 +24,7 @@ Within the ongoing development of this project eventually occurred - as a kind o
 
 Now we try to define conditions and criteria of a classification-systematics, in which all kind of parts from different other construction sets can become integrated and registered, getting a unique part-no., and act as a common base for a kind of catalog-system or parts-database.
 
-![Systematics](https://wiki.opensourceecology.de/images/8/88/Uniprosys_strukt1.png)
+![Systematics](https://wiki.opensourceecology.de/images/thumb/8/88/Uniprosys_strukt1.png/549px-Uniprosys_strukt1.png)
 
 The aim and our hope is, that such parts would be preferred and more often used in many maker-projects, so that it may later results in a kind of independent de-facto-standard of OpenHardware-parts.
 
