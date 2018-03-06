@@ -4,7 +4,6 @@ The UniProKit (Universal Prototyping Kit) project was originated by the wish to 
 
 It should resemble the well known '''metal construction sets''' like Meccano/Erector, with basic elements like bars, angles and plates with rows of drilled holes, wheels, flanges, transmission-rods etc., up to more specific elements like stepper motors and linear drives, less toy-like, but more stable and slightly bigger dimensioned.
 
-<img src="https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png" width="480">
 
 <img src="https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg" width="480">
 
@@ -44,6 +43,9 @@ This would offer the following advantages:
 
 The recent state of the project is, that we have already fully defined the so called **Basic-Set**, which is appropriate for all kind of structural framing and mounting stuff and provide it for download as part-library **UPKlib V.2**). It is made conesquently in the OpenSource CAD-programm **FreeCAD**, which means it can be exported from there into many important CAD-fileformats like .igs, .stp, .stl etc.  
 
+<img src="https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png" width="480">
+
+
 Other sets are under development, like the **LinearDrive Set** for linear motion of cnc-maschine-axis and the **Frame Set**, which contains useful parts for housing, like corner-elements and cover-plates.  
 
 More stes are in preparation, each one related to a certain area or theme, like electronic-pcbs and stepper-motors. Since this is an open system, all kind of useful Sets can be added by time or on demand.  Meanwhile we can use them as working-examples, for discussing and developing different contents and practical aspects of the systematics.
@@ -53,5 +55,8 @@ It would be nice and certainly useful for everyone, if such a kind of systematic
 ### Links 
 * Project-Homepage: [UniProKit](https://wiki.opensourceecology.de/Universal_Prototyping_Kit)
 * The CAD-Library: [UPKlib V.2](https://wiki.opensourceecology.de/Upklib)
+* Basic Set: [UPKlib V.2](https://wiki.opensourceecology.de/Upklib)
+* Frame Set: [](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Frameset)
+* LinearDrive Set : [UPKlib V.2](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Lineartrieb)
 
 
