@@ -1,6 +1,6 @@
 ## The UniProKit 
 
-The UniProKit (Universal Prototyping Kit) project was originated by the wish to have a kind of universal construction kit available.
+The UniProKit (Universal Prototyping Kit) project was originated by the wish to have a kind of open universal construction kit available, based on the principles of OpenSource/OpenHardware.
 
 It should resemble the well known '''metal construction sets''' like Meccano/Erector, with basic elements like bars, angles and plates with rows of drilled holes, wheels, flanges, transmission-rods etc., up to more specific elements like stepper motors and linear drives, less toy-like, but more stable and slightly bigger dimensioned.
 
