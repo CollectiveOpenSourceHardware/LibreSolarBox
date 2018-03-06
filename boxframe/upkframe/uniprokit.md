@@ -6,9 +6,7 @@ It should resemble the well known '''metal construction sets''' like Meccano/Ere
 
 ![Overview|40%](https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png)
 
-
-![Metal Construction Kit|800x600,60%](https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg)
-
+![Metal Construction Kit](https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg){ width=50% }
 
 ### Applications
 
