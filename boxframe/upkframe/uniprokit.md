@@ -4,10 +4,10 @@ The UniProKit (Universal Prototyping Kit) project was originated by the wish to 
 
 It should resemble the well known '''metal construction sets''' like Meccano/Erector, with basic elements like bars, angles and plates with rows of drilled holes, wheels, flanges, transmission-rods etc., up to more specific elements like stepper motors and linear drives, less toy-like, but more stable and slightly bigger dimensioned.
 
-![Overview] (https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png)
+![Overview](https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png)
 
 
-![Metal Construction Kit] (https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg)
+![Metal Construction Kit](https://wiki.opensourceecology.de/images/thumb/5/53/Uniprokit_kasten1.jpg/800px-Uniprokit_kasten1.jpg)
 
 
 ### Applications
