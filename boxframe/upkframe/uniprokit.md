@@ -11,6 +11,8 @@ It should resemble the well known '''metal construction sets''' like Meccano/Ere
 
 Such a thing would be desirable for all kind of projects, for fast and easy testing of approaches and ideas - just rapid prototyping, or for building smaller machines like a 3D-printer or pcb-router. It could also be used for structural supports and mountings in experiments, or jigs for producing other parts. One can also use it for building assembly groups and modular components in other projects, e.g. a lineardrive-module within a tracking-system of a CSP-project (CSP=concentrating solar power).
 
+<img src="http://makeable.de/mlab/makeable/wordpress/wp-content/uploads/2017/08/IMG_20170825_122728.jpg" width="480">
+
 The application range is wide and similar like those commercial and aluminium-extrusion-profiles based T-slot-systems often used by engineers, but we dont want to be limited only on such quite expensive system-solutions. It is an important aspect of the UniPro-Kit Sets, that they are consisting mainly of these parts, which are easy and everywhere available, like in the next local hardware store. Or one can make use of materials like aluminum-profiles, which can become DIY-processed with hand-tools and simple jigs, e.g. drilling rows of holes and cutting at different lengths.
 
 It is an important and typical part of the OSE-concept, to become independent of industrial producers, not absolutely and by 100%, but as much as possible.
@@ -55,8 +57,8 @@ It would be nice and certainly useful for everyone, if such a kind of systematic
 ### Links 
 * Project-Homepage: [UniProKit](https://wiki.opensourceecology.de/Universal_Prototyping_Kit)
 * The CAD-Library: [UPKlib V.2](https://wiki.opensourceecology.de/Upklib)
-* Basic Set: [UPKlib V.2](https://wiki.opensourceecology.de/Upklib)
-* Frame Set: [](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Frameset)
-* LinearDrive Set : [UPKlib V.2](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Lineartrieb)
+* Structural Parts: [Basic Set](https://wiki.opensourceecology.de/Upklib)
+* Housing: [Frame Set](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Frameset)
+* Linear Motion : [LinearDrive Set](https://wiki.opensourceecology.de/Erg%C3%A4nzungs-Set_Lineartrieb)
 
 
