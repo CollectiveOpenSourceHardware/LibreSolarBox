@@ -1,10 +1,10 @@
-##English: The [[UniPro-Kit/en|UniPro-Kit]]##
+## English: The [[UniPro-Kit/en|UniPro-Kit]]
 
 The [[UniPro-Kit/en|UniPro-Kit]] (Universal Prototyping Kit) project was originated by the wish to have a kind of universal construction kit available.
 
 It should resemble the well known '''metal construction sets''' like Meccano/Erector, with basic elements like bars, angles and plates with rows of drilled holes, wheels, flanges, transmission-rods etc., up to more specific elements like stepper motors and linear drives, less toy-like, but more stable and slightly bigger dimensioned.
 
-###Applications###
+### Applications
 
 Such a thing would be desirable for all kind of projects, for fast and easy testing of approaches and ideas - just rapid prototyping, or for building smaller machines like a 3D-printer or pcb-router. It could also be used for structural supports and mountings in experiments, or jigs for producing other parts. One can also use it for building assembly groups and modular components in other projects, e.g. a lineardrive-module within a tracking-system of a CSP-project (CSP=concentrating solar power).
 
