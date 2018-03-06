@@ -50,7 +50,7 @@ The recent state of the project is, that we have already fully defined the so ca
 
 Other sets are under development, like the **LinearDrive Set** for linear motion of cnc-maschine-axis and the **Frame Set**, which contains useful parts for housing, like corner-elements and cover-plates.  
 
-More sets are in preparation, each one related to a certain area or theme, like electronic-pcbs and stepper-motors. Since this is an open system, all kind of useful Sets can be added by time or on demand.  Meanwhile we can use them as working-examples, for discussing and developing different contents and practical aspects of the systematics.
+More sets are in preparation, each one related to a certain area or theme, like electronic-pcbs and stepper-motors. Since this is an open system, all kind of useful sets can be added by time or on demand.  Meanwhile we can use them as working-examples, for discussing and developing different contents and practical aspects of the systematics.
 
 It would be nice and certainly useful for everyone, if such a kind of systematics could be well established as an independent standard of parts and parts lists in Open Hardware projects.  Whether this will really happen or not depends on different facts and influences, like e.g. the acceptance of the community.
 
