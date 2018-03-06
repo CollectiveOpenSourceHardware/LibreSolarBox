@@ -14,9 +14,11 @@ It is an important and typical part of the OSE-concept, to become independent of
 
 ### Compatibility 
 
-Within the ongoing development of this project eventually occurred - as a kind of by-product - the idea, to make the UniPro-Kit open and extendable towards all directions and to support any possible kind of compatibility with other Open Hardware Construction sets like Gridbeam, OpenStructures, Openrails and Openbuilds, etc., and to integrate and combine all these and others together into a kind of open standard.
+Within the ongoing development of this project eventually occurred - as a kind of by-product - the idea, to make the UniPro-Kit open and extendable towards all directions and to support any possible kind of compatibility with other Open Hardware Construction sets like Gridbeam, OpenStructures and Openbuilds, etc., and to integrate and combine all these and others together into a kind of open standard.
 
 Now we try to define conditions and criteria of a classification-systematics, in which all kind of parts from different other construction sets can become integrated and registered, getting a unique part-no., and act as a common base for a kind of catalog-system or parts-database.
+
+![Systematics](https://wiki.opensourceecology.de/images/8/88/Uniprosys_strukt1.png)
 
 The aim and our hope is, that such parts would be preferred and more often used in many maker-projects, so that it may later results in a kind of independent de-facto-standard of OpenHardware-parts.
 
