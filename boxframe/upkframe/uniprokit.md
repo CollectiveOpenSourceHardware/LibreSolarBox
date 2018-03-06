@@ -37,7 +37,7 @@ This would offer the following advantages:
 
 * the parts and their producing-process itself can be optimized by the community and better adopted at the specific demands of the individual Openhardware projects.
 
-* one can create OpenSource-CAD-libraries of the parts, which allow a pure virtual construction, development and optimization of Open Hardware projects by a big developer-community, longtime before its necessary, to spend real money for materials or having access to well equipped workshops.
+* one can use OpenSource-CAD-libraries of the parts, which allow a pure virtual construction, development and optimization of Open Hardware projects by a big developer-community, longtime before its necessary, to spend real money for materials or having access to well equipped workshops.
 
 * the systematics and the database would allow a direct search and access of special parts. That's different compared to sites like thingiverse, on which also exists a lot of useful things, but they are only small organized and less catalog-like, so it needs a time-consuming search to find there the appropriate thing.
 
