@@ -9,7 +9,7 @@ It should resemble the well known '''metal construction sets''' like Meccano/Ere
 
 ### Applications
 
-Such a thing would be desirable for all kind of projects, for fast and easy testing of approaches and ideas - just rapid prototyping, or for building smaller machines like a 3D-printer or pcb-router. It could also be used for structural supports and mountings in experiments, or jigs for producing other parts. One can also use it for building assembly groups and modular components in other projects, e.g. a lineardrive-module within a tracking-system of a CSP-project (CSP=concentrating solar power).
+Such a thing would be desirable for all kind of projects, for fast and easy testing of approaches and ideas - just rapid prototyping, or for building smaller machines like a 3D-printer or pcb-router. It could also be used for structural supports and mountings in experiments, or jigs for producing other parts. One can also use it for building assembly groups and modular components in other projects, e.g. a lineardrive-module within a tracking-system.
 
 <img src="http://makeable.de/mlab/makeable/wordpress/wp-content/uploads/2017/08/IMG_20170825_122728.jpg" width="480">
 
@@ -17,7 +17,7 @@ The application range is wide and similar like those commercial and aluminium-ex
 
 It is an important and typical part of the OSE-concept, to become independent of industrial producers, not absolutely and by 100%, but as much as possible.
 
-### Compatibility 
+### Compatibility and Systematics
 
 Within the ongoing development of this project eventually occurred - as a kind of by-product - the idea, to make the UniPro-Kit open and extendable towards all directions and to support any possible kind of compatibility with other Open Hardware Construction sets like Gridbeam, OpenStructures and Openbuilds, etc., and to integrate and combine all these and others together into a kind of open standard.
 
@@ -43,7 +43,7 @@ This would offer the following advantages:
 
 ### Status 
 
-The recent state of the project is, that we have already fully defined the so called **Basic-Set**, which is appropriate for all kind of structural framing and mounting stuff and provide it for download as part-library **UPKlib V.2**). It is made conesquently in the OpenSource CAD-programm **FreeCAD**, which means it can be exported from there into many important CAD-fileformats like .igs, .stp, .stl etc.  
+The recent state of the project is, that we have already fully defined the so called **Basic-Set**, which is appropriate for all kind of structural framing and mounting stuff and provide it for download as part-library **UPKlib V.2**). It is made consequently with the OpenSource CAD-programm **FreeCAD**, which means it can be exported from there into many important CAD-fileformats like .igs, .stp, .stl etc.  
 
 <img src="https://wiki.opensourceecology.de/images/1/17/Lib_basis_1a.png" width="480">
 
