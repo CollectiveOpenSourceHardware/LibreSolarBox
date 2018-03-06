@@ -37,7 +37,7 @@ This would offer the following advantages:
 
 * the parts and their producing-process itself can be optimized by the community and better adopted at the specific demands of the individual Openhardware projects.
 
-* one can create OpenSource-CAD-libraries of the parts, which allow a pure virtual construction, development and optimization of Open Hardware projects by a big developer-community, longtime before its necessary, to spend real money for materials or having access to well equipped workshops.
+* one can use OpenSource-CAD-libraries of the parts, which allow a pure virtual construction, development and optimization of Open Hardware projects by a big developer-community, longtime before its necessary, to spend real money for materials or having access to well equipped workshops.
 
 * the systematics and the database would allow a direct search and access of special parts. That's different compared to sites like thingiverse, on which also exists a lot of useful things, but they are only small organized and less catalog-like, so it needs a time-consuming search to find there the appropriate thing.
 
@@ -50,7 +50,7 @@ The recent state of the project is, that we have already fully defined the so ca
 
 Other sets are under development, like the **LinearDrive Set** for linear motion of cnc-maschine-axis and the **Frame Set**, which contains useful parts for housing, like corner-elements and cover-plates.  
 
-More stes are in preparation, each one related to a certain area or theme, like electronic-pcbs and stepper-motors. Since this is an open system, all kind of useful Sets can be added by time or on demand.  Meanwhile we can use them as working-examples, for discussing and developing different contents and practical aspects of the systematics.
+More sets are in preparation, each one related to a certain area or theme, like electronic-pcbs and stepper-motors. Since this is an open system, all kind of useful sets can be added by time or on demand.  Meanwhile we can use them as working-examples, for discussing and developing different contents and practical aspects of the systematics.
 
 It would be nice and certainly useful for everyone, if such a kind of systematics could be well established as an independent standard of parts and parts lists in Open Hardware projects.  Whether this will really happen or not depends on different facts and influences, like e.g. the acceptance of the community.
 
