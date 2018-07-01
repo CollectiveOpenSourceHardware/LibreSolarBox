@@ -26,6 +26,6 @@ The current Libre Solar Box system contains following specs and modules:
 - **Interface**: Solarinput (MC4), DC-output (car plug), AC-output (schuko, integrated in inverter), main switch
 
 ### visualization:
-- Open Energy Monitor via CAN to ESP (Server ext.)/Rasbperry (Server int.)
+- [Open Energy Monitor](https://openenergymonitor.org/) via CAN to ESP (Server ext.)/Rasbperry (Server int.)
 - browser based visualization -> access via LAN/WLAN
 
