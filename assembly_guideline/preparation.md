@@ -35,8 +35,8 @@
      - (optional: epaper display+conncetion wire)
 
 ### Assembly Steps
-1. Frame assembly
- 1.1 nuts into t-slot profile (
+* Frame assembly
+ ** nuts into t-slot profile (
  1.2 place profile in rectangle, place corner elements between profiles, screw together
  1.3 repeat 
 -> result: 2 connected rectangle frame
