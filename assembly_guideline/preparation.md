@@ -3,7 +3,7 @@
 ### Preparation Steps
 - Software tools
   - FreeCAD, 
-- Prepare of tools and place
+- Prepare tools and place
   - table
   - crimping tool
   - screwdriver
@@ -43,7 +43,7 @@
  1.4 connect the 2 rectangle frames with profile
 -> result: boxframe
 2. screw bottom plate on bottom side of boxframe
--> boxframe with bottom plate
+-> result: boxframe with bottom plate
 3. cut and crimping wires
  3.1 ...
 4. battery pack assembly -> !!!!!safety note!!!!!
