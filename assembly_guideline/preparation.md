@@ -18,21 +18,23 @@
     - housing plates
   - Battery pack
     - 3D printed battery case (bottom and cap -> download link to file)
-    - batteries
-    - battery connectors
+    - battery cells
+    - cell connectors
   - electrical components
-    - Libre Solar components -> MPPT, BMS, (optional: CAN2Wifi)
+    - Libre Solar components -> MPPT, *BMS*, (optional: CAN2Wifi)
     - (optional: RaspberryPi0)
     - wires - power wires (6 sq mm), balancing wires (2 sq mm)
     - ferrules, cable lugs
     - (optional: communication wire - ethernet cable)
    - plugs
-     - dc-output plugs (car plug, 2x)
+     - *dc-output plugs (car plug, 2x)*
      - solar input plugs (Weidmüller PV Stick allows assembly w/o crimping and is compatible to MC4. Clips should be removed that the plug can be unmounted without tools)
-     - usb plugs
-     - ON/OFF switch, pushbutton, integrated LED
+     - *usb plugs*
+     - *ON/OFF switch, pushbutton, integrated LED*
      - (optional: RJ45 jacks (2x))
      - (optional: epaper display+conncetion wire)
+
+Remarks: Parts in *italic font* still need to be ordered.
 
 ### Assembly Steps
 1. Frame assembly
