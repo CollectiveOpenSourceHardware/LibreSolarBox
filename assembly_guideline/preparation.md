@@ -4,6 +4,7 @@
 - Software tools
   - FreeCAD, 
 - Prepare tools and place
+-> foto of each part
   - table
   - crimping tool
   - screwdriver
@@ -60,3 +61,16 @@ Remarks: Parts in *italic font* still need to be ordered.
 - 4.5 screw battery pack with bottom plate
 5. mouting of electric components
 ...
+
+### Disassembly Steps
+1. remove blending parts (sides, backs)
+-> pic box, mark sides, mark screws
+2. remove fuse! -> no voltage/ current in system, note for electric safety rules 
+-> pic fuse
+3. remove interface (plugs, swith), by cutting, by 
+-> pic interface, mark points to remove
+4. remove cables from electric components
+-> pic components, pic interface/jack
+5. demount electric parts
+-> pic screws
+6. 
