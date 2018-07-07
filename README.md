@@ -5,6 +5,11 @@ The power specifications are chosen to supply a mini house, a boat, a caravan, o
 
 The aim is that everybody is possible to rebuild the solar box at home or at his/her favourite fablab.
 
+
+<!--![Libre Solar Box Layout](/media_files/libre_solar_box_layout.png)-->
+
+<iframe src="https://h5p.org/h5p/embed/231072" width="1091" height="690" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 ![Layout](/LibreSolarBox_Layout.png)
 
 ----------------------
