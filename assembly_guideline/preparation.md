@@ -144,3 +144,110 @@ We have now two frames and for short aluminiums profiles.
 * Remove screws throw the plastic corners of the both frames.
 * Remove the plastic corners.
 
+## Assembly
+### Assembly frame box
+Note: square nuts are not symmetric. When inserting them into T-Slot, keep the upper part outside. See picture [...] to determine the upper side of the nuts.
+
+Create large squre frames first.
+
+* Put larger profiles on the table and put plastic corners in the corners. Check orientation of the profiles. The holes on the side of the upper and the lower profile must be up.
+* Insert all necessary square nuts in the T-slots.
+
+ Hint: Use a bolt to push a square nut into a slot.
+
+* Control the placement of corners, screws and squre nuts.
+Start with the bottom part.
+* Connect a corner to the bottom.
+* Connect a side part to the bottom.
+* Connect another corner to the bottom.
+* Connect another side to the bottom.
+* Connect remaining corners and the upper part.
+* Connect small T-profiles to a big square frame. The holes on the side of the large frame must be later outside of the box.
+* Insert nuts into short profiles. Two nuts into every short profiles on the top of the future box. Four nuts into every short profile on the bottom of the future box.
+
+### Add bottom
+* Add the bottom blending.
+
+### Add batteries
+* Mark the batteries with numbers *1*, *2*, *3*, and *4*.
+* Put batteries into the battery case.
+* Isolate main **+** and main **-** of the batteries. (Is it important to have main "+" or "-" on particular side of the battery block?")
+Now carrefully connect batteries one by one, from *4* to *1*.
+* Put connector between *4* and *3*.
+* Put a washer on the connector on the side *4*.
+* Put thin cable with tag *4* on the washer
+* Put another washer on the connector of the thin cable. (Too many washers, check it again).
+* Put a bolt throw connector, washers and thin cable and  tighten it. (bots or screws?).
+* Put a washer on connector on side *3*.
+* Put a bolt throw the washer and the connector and tighten it.
+* Connect in the simmilar way batteries *3* with *2* and *2* with *1*.
+* Do **not** remove isolation from main **+** and main **-** yet.
+
+### Assembly interface bleding
+The interface blending is the blending with sockets.
+* Put sockets with cables into the blending
+* Mount the interface bleding to the frame
+
+### Connect BMS
+* Solder cablers to the on/off-switch.
+* Mount blue thick cables and USB+ to *PWR-* of BMS.
+* Mount red thick cables and USB- to *PWR+* of BMS.
+* Connect two blue cables (- or +?) to two DC out sockets.
+* Connect two red cables to two DC out sockets.
+* Connect two thin cables from on/off-switch to BMS.
+
+### Connect to MPPT
+* Connect all cable ends without blade connectors to MPPT.
+* Check that these cable are well mounted.
+
+### Connect battery block
+(In this part BAT- and BAT+ seems to be confused.I need resolve it.)
+* Remove isolation from **main -**.
+* Connect two cables to **main -**.
+* Connect thick blue cable to *BAT-* on BMS.
+* Connect two cables to **main -**
+* Connect balancing to *BAT-* on BMS. (Is this correct?)
+(Must the on/off switch must be off before add the fuse? How one can see it?)
+* Add fuse.
+* Check the voltage (where?): It must be around 12.8 V.
+* Switch off the on/off switch.
+* Check the voltages. It must be falling until 0. The voltage does not drop imidiatelly to 0, because there is remaining electric charge in the capacitors.
+* Swich on.
+* Check Voltage between *POW+* and *POW-*. It must be about 12.8V.
+* Remove the fuse. (I missted this step in my notes. Is it correct here?).
+
+### Connect Raspberry
+* Connect  an internet cable to Raspberry
+* Connect the internet cable to BMS.
+* Connect an internet cable to CAN socket on the blending.
+* Connect the other end of the cable to BMS.
+* Mount the Raspbery with two-side tape to the box.
+
+### Add back blending
+(Better do it before interface blending because the inteface blending is not flat.)
+* Put SolarBox on the interface.
+* Position square nuts. They must have the same position as the holes of the blending.
+* Put blending on the frame.
+* Insert bolts through the blending into the square nuts. Tighten the bolts.
+
+### Mount side blending
+* Put the SolarBox on the side.
+* Position the squre nuts.
+* Put the blending on the frame.
+* Insert bolts through the blending into the square  nuts. Tighten the bolts.
+
+### Mount to blending with handles.
+* Put the SolarBox on the bottom.
+* Position squre nuts for the top blending.
+* Put top blending.
+* Put handles on the top blending.
+* Insert **longer** bolts through the handles, the blending and squre nuts. Use normal bolts for other parts of the blending.
+* Tighten the blending.
+
+### Mount last side blending
+* Check once more if all the connection are good.
+* Insert the fuse.
+* Put the SolarBox on the side.
+* Position the square nuts.
+* Add the blending.
+* Tighten the bolts.
