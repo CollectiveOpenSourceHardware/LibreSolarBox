@@ -74,3 +74,73 @@ Remarks: Parts in *italic font* still need to be ordered.
 5. demount electric parts
 -> pic screws
 6. 
+
+
+## Disassembly ##
+### Disconnect BMS:
+* Remove fuse.
+* Remove BAT+ cable. 
+* Mask metal end of the cable .
+* Remove BAT- cable.
+* Mask metal end of the cable.
+* Remove PWR+ cables from BMS.
+* Remove PWR- cables from BMS.
+* Remove thin cables from BMS
+* Remove internet cables from BMS.
+* Remove monitor cables.
+* Move ends of the cable down. Keep them away from batteries.
+* Remove thin cables.
+
+### Remove upper part of the case
+* Remove screws from the upper blending.
+* Remove screws from handles.
+* Remove the upper blending with the handles.
+
+### Remove interface blending
+Interface are the sockets on the blending.
+
+* Remove thick cables from blending if they are not soldered.
+* Remove screws from the blending. Put them into a cup.
+* Desolder on/off-swich.
+* Remove CAN Socket.
+* Remove USB power socket.
+* Remove two DC Out 1V sockets.
+* Do not remove PV INPUT and OUTPUT from interface. In this version it is not mechanically possible yet. We need to disconnect them from MPPT first.
+* Remove PV Input and OUTPUT cables from MPPT.
+* Remove all other cables from MPPT.
+* Remove the interface bleding.
+* Remove PV Input and OUTPUT sockets with cables. Now it is possible to do.
+* Put away the interface blending.
+
+### Remove MPPT
+* Remove screws which hold the MPPT.
+* Put away MPPT.
+
+### Remove BMS
+* Remove screws which hold BMS at the battery case.
+* Put away BMS.
+
+### Remove remaining side blendings
+* Remove remaining side blending and put them away.
+
+Now you can easier access the batteries.
+
+### Remove batteries
+* Determine the in wich order you need to remove the batteries. We work from **main -** -- this is the first battery -- to **main +** -- this is the last battery.
+* Carefully remove a screw, an electric connector, and a washer from one side of a battery block.
+* Carefully remove a screw, an electric connector, and a washer from the other side of the battery.
+* Put away the battery.
+* Repeat it for all the remaining batteries.
+
+### Dissassemble frame
+* Lay the frame on a side. This is the side with the largest area.
+* Remove four upper screws.
+Before remove the frame, pay attention to the nuts in the frame. They can fall down after the next step.
+* Put away the frame.
+* Remove four screws which connects the remaining frame with the small aluminum profiles.
+
+We have now two frames and for short aluminiums profiles.
+
+* Remove screws throw the plastic corners of the both frames.
+* Remove the plastic corners.
+
